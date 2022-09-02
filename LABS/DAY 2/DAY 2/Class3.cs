@@ -6,15 +6,14 @@ namespace DAY_2
 {
     class Class3
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
 
         {
             int a, b, choice; //variable declaration
             Console.WriteLine("Enter two numbers :  ");
             a = Convert.ToInt32(Console.ReadLine()); // getting user input
             b = Convert.ToInt32(Console.ReadLine()); // getting user input
-            while (choice > 0)
-            {
+           
                 Console.WriteLine("press 1:add  2:sub  3:mul  4:div   ");
             Console.WriteLine("Enter your choice:  ");
             choice = Convert.ToInt32(Console.ReadLine()); // getting user coice as input
@@ -40,7 +39,7 @@ namespace DAY_2
 
 
                 }
-            }
+            
 
 
 
