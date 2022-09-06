@@ -6,17 +6,17 @@ namespace DAY_2
 {
     class Class4
     {
-        public void swap(int c, int d)
+        public static void swap(int c, int d)
         {
 
             int temp;
             temp = c;
             c = d;
             d = temp;
-
+            Console.WriteLine("\nAfter swap value of a= {0} and b= {1}", c,d);
 
         }
-        static void Main(string[] args)
+       public static void Main9(string[] args)
         {
             Class4 n = new Class4();
             int a, b;
@@ -26,8 +26,8 @@ namespace DAY_2
             Console.WriteLine("\nEnter the second numbers :  ");
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("\nBefore swap value of a= {0} and b= {1}", a, b);
-            n.swap (a, b);
-            Console.WriteLine("\nAfter swap value of a= {0} and b= {1}", a, b);
+            swap(a, b);
+            
         }
        
     }
