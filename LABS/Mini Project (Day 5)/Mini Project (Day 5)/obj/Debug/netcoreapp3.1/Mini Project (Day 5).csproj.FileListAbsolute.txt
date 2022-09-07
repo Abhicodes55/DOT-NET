@@ -1,0 +1,14 @@
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\bin\Debug\netcoreapp3.1\Mini Project (Day 5).exe
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\bin\Debug\netcoreapp3.1\Mini Project (Day 5).deps.json
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\bin\Debug\netcoreapp3.1\Mini Project (Day 5).runtimeconfig.json
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\bin\Debug\netcoreapp3.1\Mini Project (Day 5).runtimeconfig.dev.json
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\bin\Debug\netcoreapp3.1\Mini Project (Day 5).dll
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\bin\Debug\netcoreapp3.1\Mini Project (Day 5).pdb
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).csproj.AssemblyReference.cache
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).AssemblyInfoInputs.cache
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).AssemblyInfo.cs
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).csproj.CoreCompileInputs.cache
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).dll
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).pdb
+C:\Users\abhis\OneDrive\Desktop\LABS\Mini Project (Day 5)\Mini Project (Day 5)\obj\Debug\netcoreapp3.1\Mini Project (Day 5).genruntimeconfig.cache
