@@ -7,7 +7,7 @@ namespace Day_4
     class Class2
 
     {
-        public static void Main7()
+        public static void Main()
         {
 
             Console.WriteLine("Enter number of Rows of 2D Array: "); //getting size of 2D Array

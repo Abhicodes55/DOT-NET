@@ -7,7 +7,7 @@ namespace Day_4
     //Program to check whether a string is Palindrome or not
     class palindrome
     {
-        public static void Main9()
+        public static void Main()
         {
             Console.WriteLine("Enter a string to check : ");
             string s = Console.ReadLine(); // Getting string input from user

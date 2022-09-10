@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-//Program to Add two Matrices
-// NOTE:- 2 Matrices with different sizes cannot be added or subtracted , ex: a matrix of size 2x2 and 3x2 cannot be added or subtacrted
+
 namespace Day_4
 {
-    class Class1
+    class Multiplication
     {
         public static void Main()
         {
@@ -14,7 +13,7 @@ namespace Day_4
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter number of Columns of  Array 1: ");
             int b = Convert.ToInt32(Console.ReadLine());
-            int[,] matrix = new int[a, b];
+            int[,] matrix = new int[a,b];
             for (int row = 0; row < a; row++) // getting Array 1 elements from user
             {
                 for (int col = 0; col < b; col++)
@@ -56,35 +55,51 @@ namespace Day_4
                 }
                 Console.WriteLine();
             }
-            int rowsum = a ;
-            int colsum = b;
-           //int rowsum = matrix.GetLength(0);
-            //int colsum = matrix.GetLength(1);
-            int[,] matrixsum = new int[rowsum, colsum];
-            for (int i= 0; i<rowsum; i++)
+            if (b != c)
             {
-                for (int j = 0; j <colsum; j++)
-                {
-                    matrixsum[i,j] = matrix[i,j] + matrix_1[i,j];// Adding the elements 
-                }
+                Console.WriteLine("Matrix multipllication is not possible");
             }
-            Console.WriteLine("Sum of Array 1 and Array 2 : ");
-            for (int i = 0; i <rowsum; i++) // Printing Sum of Both the Arrays
+            else
             {
-                for (int j = 0; j <colsum; j++)
+                int[,] matrixsum = new int[10,10];
+                for (int i = 0; i < b; i++)
+             
+                    for (int j = 0; j <d; j++)
+                        matrixsum[i, j] = 0;
+                        for (int i = 0; i <b; i++)// row of first matrix 
+                        {
+                          for (int j = 0; j < d; j++)// column of second matrix
+                          {
+                           for (int k = 0; k < b; k++)
+                           {
+                            int sum = 0;
+                            sum += matrix[i, k] * matrix_1[k, j];
+                            matrixsum[i, j] = sum;
+                           }
+                          }
+                        }  
+
+                        
+                    
+                
+                Console.WriteLine("Multiplication of Matrix 1 and Matrix 2 : ");
+                for (int i = 0; i < b; i++) // Printing Sum of Both the Arrays
                 {
-                    Console.Write(matrixsum[i,j]+ "\t");
+                    for (int j = 0; j <d; j++)
+                    {
+                        Console.Write(matrixsum[i, j] + "\t");
+                    }
+                    Console.WriteLine();
                 }
-                Console.WriteLine();
+
+
+
+
+
+
+
             }
-
-
-
-
-
-
-
         }
     }
-    }
+}
 
