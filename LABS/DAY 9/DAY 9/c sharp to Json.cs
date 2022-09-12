@@ -60,13 +60,13 @@ namespace DAY_9
             Console.WriteLine("Enter Student Last Name: ");
             l = Console.ReadLine();
             Student stu = new Student(f,r1,l);
-            Console.WriteLine("\nconverting c# to json");
+            Console.WriteLine("\nconverting c# to json: ");
 ;            var json = JsonConvert.SerializeObject(stu);
             Console.WriteLine(json);
             stu.Writeinfile();
-            Console.WriteLine("\nconverting Json to C#");
+            Console.WriteLine("\nconverting Json to C# Class: ");
             var studentobj = JsonConvert.DeserializeObject<Student>(json);
-            Console.WriteLine(json);
+            Console.WriteLine(studentobj);
             Console.WriteLine("\nReading Content from file:");
             stu.Readfromfile();
             
