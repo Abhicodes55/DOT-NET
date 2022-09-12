@@ -1,0 +1,16 @@
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\bin\Debug\netcoreapp3.1\DAY 9.exe
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\bin\Debug\netcoreapp3.1\DAY 9.deps.json
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\bin\Debug\netcoreapp3.1\DAY 9.runtimeconfig.json
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\bin\Debug\netcoreapp3.1\DAY 9.runtimeconfig.dev.json
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\bin\Debug\netcoreapp3.1\DAY 9.dll
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\bin\Debug\netcoreapp3.1\DAY 9.pdb
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.csproj.AssemblyReference.cache
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.AssemblyInfoInputs.cache
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.AssemblyInfo.cs
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.csproj.CoreCompileInputs.cache
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.dll
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.pdb
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.genruntimeconfig.cache
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abhis\OneDrive\Desktop\LABS\DAY 9\DAY 9\obj\Debug\netcoreapp3.1\DAY 9.csproj.CopyComplete

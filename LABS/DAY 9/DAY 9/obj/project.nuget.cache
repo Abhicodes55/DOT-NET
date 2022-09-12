@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OpzYxKqE2iRYJ4cSoGX7Z/D/x4GzKT6nxsAwvCOTZevqnBKXGk91ZP+Z8y7cpTq+h1xgAncuW7IaTQ97i+r1Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhis\\OneDrive\\Desktop\\LABS\\DAY 9\\DAY 9\\DAY 9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
